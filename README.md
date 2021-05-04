@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This is a supplement guide to getting started on Accessing the hands-on Databricks labs, using CloudLabs AI platform.
+This is a supplement guide to getting started on accessing the hands-on Databricks labs, using CloudLabs AI platform.
 
 ## Contents:
 
