@@ -1,4 +1,4 @@
-# CloudLabs Databricks Instructor Guide
+# CloudLabs Guide for Instructors
 
 ## Overview
 
