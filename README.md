@@ -1,12 +1,10 @@
-# Instructors' Guide to the CloudLabs Platform ??
+# Instructors' Guide to the CloudLabs Platform
 
-# CloudLabs Instructor's Guide ??
+## The Big Picture
 
-## Overview
+This is a supplement guide to getting started with the CloudLabs platform and accessing the hands-on Databricks labs.
 
-This is a supplement guide to getting started on accessing the hands-on Databricks labs, using CloudLabs AI platform.
-
-## Contents:
+## Table of Contents:
 
 * [Login to CloudLabs](./)
 * [View and Manage On Demand Labs](./)
