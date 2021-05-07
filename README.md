@@ -1,5 +1,3 @@
-# Instructors' Guide to the CloudLabs Platform
-
 ## Overview
 
 This is a supplement guide to getting started with the CloudLabs platform and accessing the hands-on Databricks labs.
