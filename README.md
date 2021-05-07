@@ -7,6 +7,6 @@ This is a supplement guide to getting started on accessing the hands-on Databric
 ## Contents:
 
 * [Login to CloudLabs](./)
-* [Access On Demand Labs](./)
+* [View On Demand Labs](./)
 * [View Users Page](./)
 * [Need users workspaces info? Navigate to Control Panel](./)
