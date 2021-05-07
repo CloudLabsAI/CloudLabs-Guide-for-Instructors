@@ -1,6 +1,6 @@
-# Guide to CloudLabs Platform for Instructors
+# Instructors' Guide to the CloudLabs Platform ??
 
-# Instructors Guide for CloudLabs
+# CloudLabs Instructor's Guide ??
 
 ## Overview
 
