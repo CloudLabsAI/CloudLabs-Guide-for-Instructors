@@ -1,4 +1,4 @@
-# CloudLabs Guide for Instructors
+# Guide to CloudLabs Platforom for Instructor
 
 ## Overview
 
