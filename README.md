@@ -8,5 +8,5 @@ This is a supplement guide to getting started on accessing the hands-on Databric
 
 * [Login to CloudLabs](./)
 * [Labs](./)
-* [Users Page](./)
-* [Users workspace info]
+* [View Users Page](./)
+* [Need users workspaces info? Navigate to Control Panel](./)
