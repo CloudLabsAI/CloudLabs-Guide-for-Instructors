@@ -8,5 +8,6 @@ This is a supplement guide to getting started on accessing the hands-on Databric
 
 * [Login to CloudLabs](./)
 * [View On Demand Labs](./)
-* [View Users Page](./)
+* [View and Manage Users](./)
+* [**Add Myself** - Dedicated Workspace for Instructors]
 * [Need users workspaces info? Navigate to Control Panel](./)
