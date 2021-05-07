@@ -10,4 +10,4 @@ This is a supplement guide to getting started on accessing the hands-on Databric
 * [View On Demand Labs](./)
 * [View and Manage Users](./)
 * ["Add Myself" - Dedicated Workspace for Instructors](./)
-* [Control Panel](./)
+* [Manage User's workspace](./)
