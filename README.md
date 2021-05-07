@@ -1,4 +1,4 @@
-# Guide to CloudLabs Platform for Instructor
+# Guide to CloudLabs Platform for Instructors
 
 ## Overview
 
@@ -10,4 +10,4 @@ This is a supplement guide to getting started on accessing the hands-on Databric
 * [View On Demand Labs](./)
 * [View and Manage Users](./)
 * ["Add Myself" - Dedicated Workspace for Instructors](./)
-* [Need users workspaces info? Navigate to Control Panel](./)
+* [Need workspaces info? Navigate to Control Panel](./)
