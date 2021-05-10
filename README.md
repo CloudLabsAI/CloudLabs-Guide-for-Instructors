@@ -1,6 +1,6 @@
 ## Overview
 
-This is a supplement guide to getting started with the CloudLabs platform and accessing the hands-on Databricks labs.
+This is a supplement guide to getting started with the CloudLabs platform, accessing and managing the hands-on Databricks labs.
 
 ## Table of Contents:
 
