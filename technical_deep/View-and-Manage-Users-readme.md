@@ -9,7 +9,8 @@ The **Users** section features the following:
 IMAGE of user (with numbering)
 
 ### **Add-ons**
-**Extend duration** - If you have an important prospect who needs to have their environment available for another day or so, you can extend the duration. However, extending should happen before the initial duration expire, as we can’t recover a deleted environment.
+
+**Extend duration** - After the specified duration, environment is self-destructed. In case if you have a user who needs the environment available for another day or so, you can extend the duration. However, extending should happen before the initial duration expire, as we can’t recover a deleted environment.
 
 1. Extend duration for an Individual user
 Steps:
