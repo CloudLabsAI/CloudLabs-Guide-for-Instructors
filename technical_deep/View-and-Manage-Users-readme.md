@@ -3,5 +3,5 @@
 The **Users** section features the following:
 
 * Number of registered users
-* Registered users' details such as First Name, Last Name and Email address
+* Registered users' details such as First Name, Last Name and Email Address
 * Deployment status of users' environment
