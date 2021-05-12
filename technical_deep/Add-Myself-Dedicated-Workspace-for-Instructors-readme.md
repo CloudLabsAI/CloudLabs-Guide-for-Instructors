@@ -10,4 +10,4 @@ Steps:
 
 Images
 
-:star: **Good to know:** You can login to this workspace with your Instructor account itslef (odl_instructor_xxxxx@databricks.labs.onmicrosoft.com) 
+**:star:** **Good to know:** You can login to this workspace with your Instructor account itslef (odl_instructor_xxxxx@databricks.labs.onmicrosoft.com) 
