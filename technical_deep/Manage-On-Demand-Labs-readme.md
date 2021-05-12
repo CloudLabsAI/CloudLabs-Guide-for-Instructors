@@ -1,4 +1,4 @@
-# Manage On-Demand Labs - user specifications
+# Manage On-Demand Labs - User's specifications
 
 As an Instructor, you will have the ability to manage user specifications such as **maximum number of users** and **number of retakes** for a lab.
 
