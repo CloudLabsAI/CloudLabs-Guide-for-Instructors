@@ -10,4 +10,4 @@ Steps:
 
 Images
 
->**Good to know:** You can login to this workspace with your Instructor account itself (odl_instructor_xxxxx@databricks.labs.onmicrosoft.com) 
+<p> &#x2B50; <b> Good to know:</b> You can login to this workspace with your Instructor account itself (odl_instructor_xxxxx@databricks.labs.onmicrosoft.com) </p> 
