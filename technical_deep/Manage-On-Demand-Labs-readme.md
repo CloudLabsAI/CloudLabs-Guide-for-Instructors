@@ -16,7 +16,7 @@ Image - default vaules
 
 Image
 
-4. After you've made your changes, press Submit.
+4. After you have made your changes, press **Submit**.
 
 IMAGE - Submit
 
