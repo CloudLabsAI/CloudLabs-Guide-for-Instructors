@@ -4,7 +4,7 @@ This is a supplement guide to getting started with the CloudLabs platform and ma
 
 ## Table of Contents:
 
-* [Instructor Login to CloudLabs](./technical_deep/Login-to-CloudLabs-readme.md)
+* [Login to CloudLabs as an instructor.](./technical_deep/Login-to-CloudLabs-readme.md)
 * [View and Manage On-Demand Labs](./technical_deep/View-and-Manage-On-Demand-Labs-readme.md)
 * [View and Manage Users](./technical_deep/View-and-Manage-Users-readme.md)
 * ["Add Myself" - Dedicated Workspace for Instructors](./technical_deep/Add-Myself-Dedicated-Workspace-for-Instructors-readme.md)
