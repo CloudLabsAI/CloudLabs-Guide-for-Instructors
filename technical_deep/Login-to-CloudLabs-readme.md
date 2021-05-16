@@ -24,4 +24,4 @@ Following are the steps to access the Cloudlabs AI Portal:
  
 5. Once you logged in successfully, you should be able to see the **On Demand Labs** page
 
-    ![ondemandlabs](media/image0.png)
+     <kdb>  ![ondemandlabs](media/image4.png) </kbd>
