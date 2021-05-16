@@ -1,4 +1,5 @@
 ## Overview
+![](Media/image0.png)
 
 This is a supplement guide to getting started with the CloudLabs platform and managing the hands-on Databricks labs.
 
