@@ -6,7 +6,7 @@ Following are the steps to access the Cloudlabs AI Portal:
 
 1. You will receive an email from CloudLabs <<noreply@cloudlabs.ai>> containing Instructor Credentials(i.e., username and password). Using those credentials, you will be able to access CloudLabs AI Portal as well as Databricks workspaces.
 
-   <kbd> (media/image0.png) </kbd>
+ ![](/media/image0.png) 
 
 2. In your browser, navigate to https://admin.cloudlabs.ai/
 
