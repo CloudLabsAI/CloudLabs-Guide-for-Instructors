@@ -26,6 +26,4 @@ Following are the steps to access the Cloudlabs AI Portal:
 
 > **Note:** If you are asked to provide a Display name, leave it on default and click on **Continue**.
  
-5. Once you logged in successfully, you should be able to see the **On Demand Labs** page
 
-     <kdb> ![](media/image3.png) </kbd>
