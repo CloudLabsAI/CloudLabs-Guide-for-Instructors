@@ -18,7 +18,7 @@ Following are the steps to access the Cloudlabs AI Portal:
     
     <kbd> ![](media/image2.png) </kbd>
     
-5. Enter the credentials provided to you via email.
+5. Enter the credentials provided to you via email and process with **Sign in**
 
     <kbd> ![](media/image3.png) </kbd>
 
