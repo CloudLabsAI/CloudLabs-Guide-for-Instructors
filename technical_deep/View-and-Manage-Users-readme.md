@@ -14,9 +14,9 @@ IMAGE of user (with numbering)
 
 1. Extend duration for an Individual user
 
-* On the User's page in the right side, click on **Extend Duration** button. 
-* Enter the duration in **Lab Duration** block.
-* Click on **OK** to save the changes.
+* On the User's page in the right side, click on **Extend Duration(1)** button. 
+* Enter the duration in **Lab Duration(2)** block.
+* Click on **OK(3)** to save the changes.
 
    <kbd> ![](media/image8.png) </kbd>
 
