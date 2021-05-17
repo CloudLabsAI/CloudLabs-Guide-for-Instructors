@@ -18,21 +18,27 @@ IMAGE of user (with numbering)
 * Enter the duration in **Lab Duration** block.
 * Click on **OK** to save the changes.
 
-IMAGE
+   <kbd> ![](media/image8.png) </kbd>
 
 2. Extend duration for Multiple users
 
 * On the User's page in the right top corner, click on **Actions** button.
 * Select **Bulk Duration Extension** from the drop down.
+
+   <kbd> ![](media/image9.png) </kbd>
+   
 * On Bulk Duration Extension page, you will see list of registered users.
 * You can either select multiple users or all the users as per your requirement
 * For **All Users:**
   - Click on **Select All User(s)** button to select all the users and add the desired duration.
   - Click on **Extend Duration** button.
-  - Image
+   
+   <kbd> ![](media/image11.png) </kbd>
+   
 * For **Multiple Users:** 
   - Check the boxes to select particular the users and add the desired duration,
   - Click on **Extend Duration** button.
-  - Image
   
-Image
+  <kbd> ![](media/image10.png) </kbd>
+  
+
