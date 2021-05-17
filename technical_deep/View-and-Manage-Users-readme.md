@@ -30,15 +30,20 @@ IMAGE of user (with numbering)
 * On Bulk Duration Extension page, you will see list of registered users.
 * You can either select multiple users or all the users as per your requirement
 * For **All Users:**
-  - Click on **Select All User(s)** button to select all the users and add the desired duration.
-  - Click on **Extend Duration** button.
+  - Click on **Select All User(s)** button to select all the users and then click on **Extend Duration** button.
    
    <kbd> ![](media/image11.png) </kbd>
+
+- Add the desired duration and click on **OK**
+   
+   <kbd> ![](media/image13.png) </kbd>
    
 * For **Multiple Users:** 
-  - Check the boxes to select particular the users and add the desired duration,
-  - Click on **Extend Duration** button.
+  - Check the boxes to select particular the users and then click on **Extend Duration** button.
   
   <kbd> ![](media/image10.png) </kbd>
-  
+
+  - Add the desired duration and click on **OK**
+
+  <kbd> ![](media/image14.png) </kbd>
 
