@@ -10,7 +10,7 @@ Following are the steps to access the Cloudlabs AI Portal:
 
 2. In your browser, navigate to https://admin.cloudlabs.ai/
 
-3. Click on the **Login** button, given in the top right corner.
+3. Click on the **LOG IN** button, given in the top right corner.
 
     <kbd> ![](media/image1.png) </kbd>
 
