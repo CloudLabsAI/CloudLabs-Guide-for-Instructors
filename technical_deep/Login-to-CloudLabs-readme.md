@@ -16,7 +16,7 @@ Following are the steps to access the Cloudlabs AI Portal:
 
 4. Choose **Work or School Account** and enter the credentials provided to you via email.
 
-   ![](media/image0.png)
+    <kbd> ![](media/image2.png) </kbd>
 
 > **Note:** In case you get prompt saying **Permission requested**, then select **Accept**.
 
@@ -24,4 +24,4 @@ Following are the steps to access the Cloudlabs AI Portal:
  
 5. Once you logged in successfully, you should be able to see the **On Demand Labs** page
 
-     <kdb> ![](media/image4.png) </kbd>
+     <kdb> ![](media/image3.png) </kbd>
