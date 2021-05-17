@@ -3,7 +3,7 @@
 The **Users** section features the following:
 
 * Number of registered users
-* Registered users' details such as First Name, Last Name and Email Address
+* Registered users' details such as Name and Email Address
 * Deployment status of users' environment
 
 IMAGE of user (with numbering)
@@ -12,7 +12,7 @@ IMAGE of user (with numbering)
 
 **Extend duration** - After the specified duration, environment is self-destructed. In case if you have a user who needs the environment available for a few hours or so, you can extend the duration. However, extending should happen before the initial duration expire, as we can’t recover a deleted environment.
 
-**1. Extend duration for an Individual user**
+1. Extend duration for an Individual user
 
 * On the User's page in the right side, click on **Extend Duration(1)** button. 
 * Enter the duration in **Lab Duration(2)** block.
@@ -20,7 +20,7 @@ IMAGE of user (with numbering)
 
    <kbd> ![](media/image8.png) </kbd>
 
-**2. Extend duration for Multiple users**
+2. Extend duration for Multiple users
 
 * On the User's page in the right top corner, click on **Actions** button.
 * Select **Bulk Duration Extension** from the drop down.
