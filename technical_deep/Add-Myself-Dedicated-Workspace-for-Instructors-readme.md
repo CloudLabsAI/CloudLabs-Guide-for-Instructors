@@ -20,7 +20,7 @@ This feature allows instructors to create their own workplace by adding themselv
 
    ![](media/image18.png)
    
-5. Click on the **LAUNCH LAB** button. This will provide you the workspace details.
+5. Click on the **LAUNCH LAB** button.
 
    ![](media/image17.png)
    
