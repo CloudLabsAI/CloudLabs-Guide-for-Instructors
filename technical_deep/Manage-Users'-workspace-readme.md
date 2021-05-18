@@ -23,3 +23,9 @@ As an Instructor, you can help users during the lab incase if they need any assi
 
 <p>&#10071;<b>Note:</b></p>
 
+<p>&#128221;<b>Note:</b></p>
+
+<p>&#128220;<b>Note:</b></p>
+
+<p>&#128304;<b>Note:</b></p>
+
