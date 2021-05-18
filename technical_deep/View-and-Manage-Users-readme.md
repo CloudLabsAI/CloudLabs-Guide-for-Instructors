@@ -4,7 +4,9 @@
 
 In the **Users** page you will find all the relevant information about registered users and their environments.
 
-![](media/imageuser0.png) 
+
+
+   ![](media/imageuser00.png) 
 
 The **Users** section features the following:
 
