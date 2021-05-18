@@ -27,7 +27,7 @@ IMAGE of user (with numbering)
    * On the User's page in the right top corner, click on **Actions** button.
    * Select **Bulk Duration Extension** from the drop down.
 
-  ![](media/image12.png)
+   ![](media/image12.png)
    
    * On Bulk Duration Extension page, you will see list of registered users.
    * You can either select multiple users or all the users as per your requirement
