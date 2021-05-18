@@ -14,8 +14,8 @@ As an Instructor, you can help users during the lab incase if they need any assi
 
 3. In the credentials tab, you will have **Workspace URL** of all the registered users against their respective email.
 
-   ![](media/image23.png) 
-
+   ![](media/image23.png)
+   
 4 **Click link**: Instructor can simply click on the workspace links and automatically login to the student workspace.
 
    ![](media/image24.png) 
