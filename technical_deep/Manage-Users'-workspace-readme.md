@@ -2,7 +2,7 @@
 
 # Manage Users' workspace
 
-As an Instructor, you can help users during the lab incase if they need any assistance. 
+This section of the CloudLabs allows instructors to shadow the users' workspace and provide support in real time.
 
 1. Click on the **Control Panel** button.
 
