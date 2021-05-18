@@ -26,7 +26,7 @@ This feature allows instructors to create their own workplace by adding themselv
    
 6. Once your workspace is ready, you will have the workspace URL to access it. 
    
-   >**Note: You can use your Instructor credentials to login to this workspace.** 
+   >**Note:** You can use your Instructor credentials to login to this workspace.
  
    ![](media/image20.png)
    
