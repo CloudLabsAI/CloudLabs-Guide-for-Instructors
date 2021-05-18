@@ -7,7 +7,7 @@ This feature allow instructors to add themselves to get their own workspace.
 
    ![](media/imageuser00.png) 
    
-2. To add yourself as instructor, click on **Actions** button and select **Add Myself**.
+2. To add yourself as an instructor, click on **Actions** button and select **Add Myself**.
 
    ![](media/image15.png) 
 
