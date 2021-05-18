@@ -12,11 +12,11 @@ As an Instructor, you can help users during the lab incase if they need any assi
 
    ![](media/image22.png) 
 
-3. In the credentials tab, you will have **Workspace URL** of all the registered users against their respective Emails.
+3. In the credentials tab, you will have **Workspace URL** of all the registered users against their respective Email.
 
    ![](media/image23.png) 
 
-4. **Click to Link -** This functionality provides you the access to users' workspace by just clicking on the URL. Instructor can simply click on the workpsace link in CloudLabs and automatically login to the student workspace.
+4. The **Workspace URL** is a functionality that provides you the access to users' workspace by just clicking on the URL. Instructor can simply click on the workpsace link in CloudLabs and automatically login to the student workspace.
 
 
 
