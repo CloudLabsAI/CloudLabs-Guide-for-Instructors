@@ -14,16 +14,16 @@ Following are the steps to access the Cloudlabs AI Portal:
 
 3. Click on the **LOG IN** button, given in the top right corner.
 
-    <kbd> (media/image1.png) </kbd>
+    ![](media/image1.png)
 
 4. Choose **Work or School Account** as account type.
     
-   <kbd> ![](media/image2.png) </kbd>
+   ![](media/image2.png) 
     
 5. Enter the credentials provided to you via email and proceed with **Sign in** button.
 
-   <kbd> ![](media/image3.png) </kbd>
-
+  ![](media/image3.png) 
+  
 > **Note:** In case you get prompt saying **Permission requested**, then select **Accept**.
 
 > **Note:** If you are asked to provide a Display name, leave it on default and click on **Continue**.
