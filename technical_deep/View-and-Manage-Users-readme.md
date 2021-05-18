@@ -10,9 +10,9 @@ To navigate to the Users page, click on **Users** button as shown below:
 
 The **Users** section features the following:
 
-   1. Number of registered users
-   2. Registered users' details such as Name and Email Address
-   3. Deployment status of users' environment
+   **1.** Number of registered users
+   **2.** Registered users' details such as Name and Email Address
+   **3.** Deployment status of users' environment
    
    ![](media/imageuser3.png) 
 
