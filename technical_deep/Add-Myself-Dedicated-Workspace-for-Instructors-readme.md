@@ -2,7 +2,6 @@
 
 This feature allow instructors to add themselves to get their own workspace. 
 
-
 1. First navigate to Users page by clicking on **Users** button.
 
    ![](media/imageuser00.png) 
@@ -11,13 +10,11 @@ This feature allow instructors to add themselves to get their own workspace.
 
    ![](media/image15.png) 
 
-3. As soon as you select **Add Myself** option, you will be now seeing your account (your Name and Email) listed in there
+3. As soon as you select **Add Myself** option, you will be now seeing your account (your name and email address) listed in there.
 
    ![](media/image16.png) 
 
-4. Now, launch your lab environment and get your workspace details
-
-5. Click on **Open invite link in new tab** and it will take you to a new tab.
+4. Now, launch your lab environment and get your workspace details by clicking on **Open invite link in new tab** 
 
    ![](media/image18.png)
    
