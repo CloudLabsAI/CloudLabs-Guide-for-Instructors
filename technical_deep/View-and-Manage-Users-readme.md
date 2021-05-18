@@ -2,6 +2,8 @@
 
 # View and Manage Users
 
+![](media/imageuser0.png) 
+
 The **Users** section features the following:
 
 * Number of registered users
