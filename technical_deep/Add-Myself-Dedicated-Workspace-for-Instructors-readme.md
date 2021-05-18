@@ -4,7 +4,7 @@
 
 This feature allows instructors to create their own workplace by adding themselves.
 
-1. First navigate to Users page by clicking on **Users** button.
+1. To begin, go to the Users page by clicking on the Users button.
 
    ![](media/imageuser00.png) 
    
