@@ -2,6 +2,8 @@
 
 # View and Manage Users
 
+
+
 ![](media/imageuser0.png) 
 
 The **Users** section features the following:
@@ -10,7 +12,7 @@ The **Users** section features the following:
 * Registered users' details such as Name and Email Address
 * Deployment status of users' environment
 
-    ![](media/imageuser1.png) 
+    ![](media/imageuser3.png) 
 
 
 ### **Add-ons**
