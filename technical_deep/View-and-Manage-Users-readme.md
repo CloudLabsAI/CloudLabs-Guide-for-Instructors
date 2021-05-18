@@ -4,7 +4,7 @@
 
 In the **Users** page you will find all the relevant information about registered users and their environments.
 
-
+To navigate to the Users page, click on **Users** button as shown below:
 
    ![](media/imageuser00.png) 
 
