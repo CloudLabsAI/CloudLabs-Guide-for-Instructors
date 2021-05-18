@@ -2,7 +2,7 @@
 
 # View and Manage Users
 
-
+In the **Users** page you will find all the relevant information about registered users and their environments.
 
 ![](media/imageuser0.png) 
 
