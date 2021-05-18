@@ -1,6 +1,5 @@
+[Home](./../README.md)
+
 # Manage Users' workspace
 
-
-<p>I will display &#x1F981;</p>
-
-Abhishek
+As an Instructor, you can help users during the lab incase if they need any assistance. 
