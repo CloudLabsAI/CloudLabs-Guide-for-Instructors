@@ -16,7 +16,7 @@ As an Instructor, you can help users during the lab incase if they need any assi
 
    ![](media/image23.png)
    
-4 **Click link**: Instructor can simply click on the workspace links and automatically login to the student workspace.
+4. **Click link**: Instructor can simply click on the workspace links and automatically login to the student workspace.
 
    ![](media/image24.png) 
 
