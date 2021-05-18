@@ -8,7 +8,8 @@ The **Users** section features the following:
 * Registered users' details such as Name and Email Address
 * Deployment status of users' environment
 
-IMAGE of user (with numbering)
+   ![](media/imageuser1.png) 
+
 
 ### **Add-ons**
 
