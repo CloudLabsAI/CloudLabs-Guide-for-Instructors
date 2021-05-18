@@ -24,6 +24,6 @@ This feature allow instructors to add themselves to get their own workspace.
 
 6. Once the workspace is ready, you will be seeing the workspace URL and login credentials on same page. 
 
->Note: You can use your Instructor credentials to login to this workspace.
+  >**Note: You can use your Instructor credentials to login to this workspace.** 
  
    ![](media/image20.png)
