@@ -7,15 +7,15 @@ This feature allow instructors to add themselves to get their own workspace.
 
    ![](media/imageuser00.png) 
    
-2. To add yourself as an instructor, click on **Actions** button and select **Add Myself**.
+2. Click on **Actions** button and select **Add Myself**.
 
    ![](media/image15.png) 
 
-3. As soon as you select **Add Myself** option, an instructor account will automatically get created with your Name and Email address.
+3. As soon as you select **Add Myself** option, you will be now seeing your account (your Name and Email) listed in there
 
    ![](media/image16.png) 
 
-4. Your instructor account is ready. Now to access the workpspace you need to launch it.
+4. Now, launch your lab environment and get your workspace details
 
 5. Click on **Open invite link in new tab** and it will take you to a new tab.
 
