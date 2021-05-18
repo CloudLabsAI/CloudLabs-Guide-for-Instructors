@@ -21,4 +21,5 @@ As an Instructor, you can help users during the lab incase if they need any assi
    ![](media/image24.png) 
 
 
+<p>&#10071;Note:</p>
 
