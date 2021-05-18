@@ -16,36 +16,36 @@ IMAGE of user (with numbering)
 
 1. Extend duration for an Individual user
 
-* On the User's page in the right side, click on **Extend Duration(1)** button. 
-* Enter the duration in **Lab Duration(2)** block.
-* Click on **OK(3)** to save the changes.
+   * On the User's page in the right side, click on **Extend Duration(1)** button. 
+   * Enter the duration in **Lab Duration(2)** block.
+   * Click on **OK(3)** to save the changes.
 
    ![](media/image8.png) 
 
 2. Extend duration for Multiple users
 
-* On the User's page in the right top corner, click on **Actions** button.
-* Select **Bulk Duration Extension** from the drop down.
+   * On the User's page in the right top corner, click on **Actions** button.
+   * Select **Bulk Duration Extension** from the drop down.
 
   ![](media/image12.png)
    
-* On Bulk Duration Extension page, you will see list of registered users.
-* You can either select multiple users or all the users as per your requirement
-* For **All Users:**
-  - Click on **Select All User(s)** button to select all the users and then click on **Extend Duration** button.
+   * On Bulk Duration Extension page, you will see list of registered users.
+   * You can either select multiple users or all the users as per your requirement
+   * For **All Users:**
+     - Click on **Select All User(s)** button to select all the users and then click on **Extend Duration** button.
    
    ![](media/image11.png) 
 
-- Add the desired duration and click on **OK**
+   - Add the desired duration and click on **OK**
    
    ![](media/image13.png) 
    
-* For **Multiple Users:** 
-  - Check the boxes to select particular the users and then click on **Extend Duration** button.
+   * For **Multiple Users:** 
+    - Check the boxes to select particular the users and then click on **Extend Duration** button.
   
-   ![](media/image10.png) 
-
-  - Add the desired duration and click on **OK**
+   ![](media/image10.png)
+   
+   - Add the desired duration and click on **OK**
 
    ![](media/image14.png) 
 
