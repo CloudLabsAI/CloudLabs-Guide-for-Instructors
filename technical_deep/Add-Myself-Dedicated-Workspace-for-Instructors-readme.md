@@ -18,9 +18,12 @@ This feature allow instructors to add themselves to get their own workspace.
 
    ![](media/image18.png)
    
-6. Click on **Launch Lab** button. This will provide you the workspace details.
+5. Click on **LAUNCH LAB** button. This will provide you the workspace details.
 
    ![](media/image17.png) 
 
+6. Once the workspace is ready, you will be seeing the workspace URL and login credentials on same page. 
 
-<p> &#x2B50; <b> Good to know:</b> You can login to this workspace with your Instructor account itself (odl_instructor_xxxxx@databricks.labs.onmicrosoft.com) </p> 
+>Note: You can use your Instructor credentials to login to this workspace.
+ 
+   ![](media/image20.png)
