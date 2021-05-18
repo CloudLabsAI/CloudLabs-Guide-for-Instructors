@@ -1,6 +1,6 @@
 [Home](./../README.md)
 
-# Manage Users' workspace
+# Manage Students' workspace
 
 As an Instructor, you can help users during the lab incase if they need any assistance. 
 
@@ -16,7 +16,7 @@ As an Instructor, you can help users during the lab incase if they need any assi
 
    ![](media/image23.png) 
 
-4. The **Workspace URL** is a functionality that provides you the access to users' workspace by just clicking on the URL. Instructor can simply click on the workpsace link in CloudLabs and automatically login to the student workspace.
+4 **Click link on Workspace URLs**: Instructor can simply click on the workspace links and automatically login to the student workspace.
 
 
 
