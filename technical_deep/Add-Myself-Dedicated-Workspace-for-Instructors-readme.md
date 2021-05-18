@@ -2,7 +2,7 @@
 
 # Add Myself - Dedicated Workspace for Instructors
 
-This feature allow instructors to add themselves to get their own workspace. 
+This feature allows instructors to create their own workplace by adding themselves.
 
 1. First navigate to Users page by clicking on **Users** button.
 
