@@ -12,19 +12,19 @@ This feature allows instructors to create their own workplace by adding themselv
 
    ![](media/image15.png) 
 
-3. As soon as you select **Add Myself** option, your account (name and email address) will now appear in the list.
+3. As soon as you select **Add Myself** option, your account (name and email address) will appear in the list.
 
    ![](media/image16.png) 
 
-4. Now, launch your lab environment and get your workspace details by clicking on **Open invite link in new tab** 
+4. Now you can start your lab environment and get the workspace details by clicking on **Open invite link in new tab** 
 
    ![](media/image18.png)
    
-5. Click on **LAUNCH LAB** button. This will provide you the workspace details.
+5. Click on the **LAUNCH LAB** button. This will provide you the workspace details.
 
    ![](media/image17.png)
    
-6. Once the workspace is ready, you will be seeing the workspace URL and login credentials on same page. 
+6. Once your workspace is ready, you will have the workspace URL on same page. 
 
     >**Note: You can use your Instructor credentials to login to this workspace.** 
  
