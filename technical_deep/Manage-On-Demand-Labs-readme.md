@@ -16,7 +16,7 @@ Follow the steps given below to understand how it works:
     
 3. As per the lab requirements, you can update the **Maximum number of users** and **Maximum retake count**.
 
-    ![](media/image7.png) 
+    ![](media/image7.png)
 
 4. After you have made your changes, click on **Submit** button. 
 
