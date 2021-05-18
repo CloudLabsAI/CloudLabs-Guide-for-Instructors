@@ -1,4 +1,4 @@
-# "Add Myself" - Dedicated Workspace for Instructors
+# Add Myself - Dedicated Workspace for Instructors
 
 This feature allow instructors to add themselves to get their own workspace. 
 
