@@ -12,7 +12,7 @@ This feature allow instructors to add themselves to get their own workspace.
 
    ![](media/image15.png) 
 
-3. As soon as you select **Add Myself** option, you will be now seeing your account (your name and email address) listed in there.
+3. As soon as you select **Add Myself** option, your account (name and email address) will now appear in the list.
 
    ![](media/image16.png) 
 
