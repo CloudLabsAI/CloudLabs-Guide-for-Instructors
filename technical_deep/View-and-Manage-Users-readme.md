@@ -38,7 +38,7 @@ The **Users** section features the following:
 
       ![](media/image12.png)
    
-   * On Bulk Duration Extension page, you will see list of registered users.
+   * On the Bulk Duration Extension page, you will see list of registered users.
    * You can either select multiple users or all the users as per your requirement
    * For **All Users:**
      - Click on **Select All User(s)** button to select all the users and then click on the **Extend Duration** button.
@@ -50,7 +50,7 @@ The **Users** section features the following:
       ![](media/image13.png) 
    
    * For **Multiple Users:** 
-    - Check the boxes to select particular the users and then click on the **Extend Duration** button.
+    - Check the boxes to select the particular the users and then click on the **Extend Duration** button.
   
       ![](media/image10.png)
    
