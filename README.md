@@ -1,6 +1,6 @@
 ## Overview
 
-This is a supplement guide to getting started with the CloudLabs platform and managing the hands-on Databricks labs.
+This is a supplement guide to getting started with the CloudLabs platform and managing the Databricks hands-on labs.
 
 ## Table of Contents:
 
@@ -9,7 +9,6 @@ This is a supplement guide to getting started with the CloudLabs platform and ma
 * [View and Manage Users](./technical_deep/View-and-Manage-Users-readme.md)
 * ["Add Myself" - Dedicated Workspace for Instructors](./technical_deep/Add-Myself-Dedicated-Workspace-for-Instructors-readme.md)
 * [Manage Users' workspace](./technical_deep/Manage-Users'-workspace-readme.md)
-
 
 
 ### For additional assistance, feel free to email us at: <labs-support@spektrasystems.com>
