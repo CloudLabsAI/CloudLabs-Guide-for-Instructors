@@ -8,7 +8,7 @@ Following are the steps to access the Cloudlabs AI Portal:
 
 1. Before we begin, make sure you are not logged in to your browser with your personal account. If you are, then click on the <https://portal.azure.com/Signout/> link to log out.
 
-2. You will receive an email from CloudLabs <noreply@cloudlabs.ai> containing Instructor Credentials. Using those credentials, you will be able to access CloudLabs as well as Databricks workspaces.
+2. You would have received an email from CloudLabs <noreply@cloudlabs.ai> containing Instructor Credentials. Using those credentials, you will be able to access CloudLabs as well as Databricks workspaces.
 
 >**Note**: Please check the **SPAM/JUNK** folder in case you cannot find the email from <noreply@cloudlabs.ai>.
 
