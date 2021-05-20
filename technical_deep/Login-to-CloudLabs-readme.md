@@ -12,7 +12,7 @@ Following are the steps to access the Cloudlabs AI Portal:
 
 >**Note**: Please check the **SPAM/JUNK** folder in case you cannot find the email from <noreply@cloudlabs.ai>.
 
-   ![](media/image00.png)
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![](media/image00.png)
 
 2. Navigate to <https://admin.cloudlabs.ai/> in an **incognito window**. 
 
