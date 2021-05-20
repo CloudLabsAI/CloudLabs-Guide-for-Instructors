@@ -29,8 +29,8 @@ Following are the steps to access the Cloudlabs AI Portal:
    ![](media/image03.png) 
   
 > **Notes:** 
-> - In case you get prompt saying **Permission requested**, then select **Accept**.
-> - If you are asked to provide a Display name, leave it on default and click on **Continue**.
+> - In case you get prompted saying **Permission requested**, then select **Accept**.
+> - If you are asked to provide a Display name, leave it as default and click on **Continue**.
 >  
  
 
