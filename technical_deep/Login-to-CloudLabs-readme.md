@@ -10,7 +10,7 @@ Following are the steps to access the Cloudlabs AI Portal:
 
 1. You will receive an email from CloudLabs <noreply@cloudlabs.ai> containing Instructor Credentials. Using those credentials, you will be able to access CloudLabs as well as Databricks workspaces.
 
->**Note**: Please check the **SPAM/JUNK** folder in case you cannot find the email from <noreply@cloudlabs.ai>
+>**Note**: Please check the **SPAM/JUNK** folder in case you cannot find the email from <noreply@cloudlabs.ai>.
 
    ![](media/image00.png)
 
