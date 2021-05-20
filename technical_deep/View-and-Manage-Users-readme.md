@@ -21,7 +21,7 @@ The **Users** section features the following:
 
 ### **Add-ons**
 
-**Extend duration** - After the specified duration, environment is self-destructed. In case if you have a user who needs the environment available for a few hours or so, you can extend the duration. However, extending should happen before the initial duration expire, as we can’t recover a deleted environment.
+**Extend duration** - In order to control lab costs, every environment is auto-deleted after a specified duration. However, the duration of the environment can easily be extended if a user requires additional time. You can do so by following the below steps and before the initial duration expires. Lab environment once deleted can not be recovered.
 
 1. Extend duration for an **Individual user**
 
@@ -33,7 +33,7 @@ The **Users** section features the following:
 
 2. Extend duration for **Multiple users**
 
-   * On the User's page in the right top corner, click on **Actions** button.
+   * On the User's page in the right top corner, click on the **Actions** button.
    * Select **Bulk Duration Extension** from the drop down.
 
       ![](media/image12.png)
@@ -50,7 +50,7 @@ The **Users** section features the following:
       ![](media/image13.png) 
    
    * For **Multiple Users:** 
-    - Check the boxes to select particular the users and then click on **Extend Duration** button.
+    - Check the boxes to select particular the users and then click on the **Extend Duration** button.
   
       ![](media/image10.png)
    
