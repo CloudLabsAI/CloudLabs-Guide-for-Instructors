@@ -25,9 +25,9 @@ The **Users** section features the following:
 
 1. Extend duration for an **Individual user**
 
-   * On the User's page in the right side, click on **Extend Duration(1)** button. 
-   * Enter the duration in **Lab Duration(2)** block.
-   * Click on **OK(3)** to save the changes.
+   * On the User's page in the right side, click on **Extend Duration (1)** button. 
+   * Enter the duration in **Lab Duration (2)** block.
+   * Click on **OK (3)** to save the changes.
 
       ![](media/image8.png) 
 
@@ -41,7 +41,7 @@ The **Users** section features the following:
    * On Bulk Duration Extension page, you will see list of registered users.
    * You can either select multiple users or all the users as per your requirement
    * For **All Users:**
-     - Click on **Select All User(s)** button to select all the users and then click on **Extend Duration** button.
+     - Click on **Select All User(s)** button to select all the users and then click on the **Extend Duration** button.
    
       ![](media/image11.png) 
 
