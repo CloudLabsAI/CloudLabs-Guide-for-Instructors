@@ -22,11 +22,11 @@ This section of the CloudLabs allows instructors to shadow the users' workspace 
    
 5. The link will take you to the **Sign in** page of the Workspace: 
 
-   * Sign in page for Azure, here click on the **Sign in with Azure AD** button.
+   * In case of Azure workspace, click on the **Sign in with Azure AD** button.
    
     ![](media/image30.png)
     
-   * Sign in page for AWS, here click on the **Single Sing On** button.
+   * And in case of AWS workspace, click on the **Single Sing On** button.
 
     ![](media/image31.png)
 
