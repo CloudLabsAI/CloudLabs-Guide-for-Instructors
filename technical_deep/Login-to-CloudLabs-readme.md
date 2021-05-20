@@ -2,9 +2,11 @@
 
 # Instructor Login to CloudLabs AI Portal 
 
-The various features along with the self-service capabilities within CloudLabs enable instructors to efficiently manage the "Databricks hands-on labs".
+The various features along with the self-service capabilities within CloudLabs enable instructors to efficiently manage the Databricks hands-on labs.
 
 Following are the steps to access the Cloudlabs AI Portal:
+
+>**Note:** If you're already signed in with another account in your browser, use <http://portal.azure.com/Signout/> link to log out.
 
 1. You will receive an email from CloudLabs <noreply@cloudlabs.ai> containing Instructor Credentials. Using those credentials, you will be able to access CloudLabs as well as Databricks workspaces.
 
@@ -22,7 +24,7 @@ Following are the steps to access the Cloudlabs AI Portal:
     
    ![](media/image02.png) 
     
-5. Enter the credentials provided to you via email and proceed with **Sign in** button.
+5. Enter the credentials provided to you via email and click on the **Sign in** button.
 
    ![](media/image03.png) 
   
