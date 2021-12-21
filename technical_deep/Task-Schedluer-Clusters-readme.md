@@ -1,14 +1,14 @@
 [Home](./../README.md)
 
-# Add Myself - Dedicated Workspace for Instructors
+# Manage Task Scheduler
 
-This feature allows instructors to create their own workplace by adding themselves.
+This feature allows instructors to manage the lab schedules like Terminate and Resume clusters OR EndPoints.
 
-1. To begin, go to the Users page by clicking on the **Users** button.
+1. Click on the **Control Panel** button.
 
    ![](media/imageuser00.png) 
    
-2. Click on **Actions** button and select **Add Myself**.
+2. Scroll down to the bottom of the page i.e. **Others** section and click on **Task Scheduler** tab.
 
    ![](media/image15.png) 
 
